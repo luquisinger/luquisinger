@@ -4,12 +4,13 @@
 ## 🔭 I’m currently working on
 
 <div>
-  <li>
+<li>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </li>
 </div>
+
 ## 🌱 I’m currently learning
 
 <img 

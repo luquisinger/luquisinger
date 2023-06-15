@@ -4,8 +4,7 @@
 <div>
 <a href="https://github.com/luquisinger">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luquisinger&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luquisinger&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+![Snake animation](https://github.com/luquisinger/luquisinger/blob/output/github-contribution-grid-snake.svg)
 
 ## 🔭 I’m currently working on
 

@@ -5,7 +5,7 @@
 <a href="https://github.com/luquisinger">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luquisinger&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-![Snake animation](https://github.com/luquisinger/luquisinger/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 🔭 I’m currently working on
 
@@ -24,3 +24,5 @@
 <a href = "matheus.779@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/luquisinger/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
+![Snake animation](https://github.com/luquisinger/luquisinger/blob/output/github-contribution-grid-snake.svg)

@@ -2,7 +2,6 @@
 ## My name is Matheus and my nickname is Luquisinger!
 
 ## 🔭 I’m currently working on
-
 <div>
 <li>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="40" height="40" />

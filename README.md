@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Matheus and my nickname is Luquisinger!
+## My name is Matheus and i'am a FullStack Developer!
 
 <div>
 <a href="https://github.com/luquisinger">
